@@ -1,0 +1,17 @@
+Error: Call to a member function getmessagetype() on null in /Users/hiyoko/NARIKAWA_Work/MAMP/NY002_MessagingAPI_SDKver/webhook.php:30
+Stack trace:
+#0 {main}Error: Call to a member function getmessagetype() on null in /Users/hiyoko/NARIKAWA_Work/MAMP/NY002_MessagingAPI_SDKver/webhook.php:30
+Stack trace:
+#0 {main}Error: Call to undefined function uploadImageThenGetUrl() in /Users/hiyoko/NARIKAWA_Work/MAMP/NY002_MessagingAPI_SDKver/webhook.php:37
+Stack trace:
+#0 {main}Error: Call to undefined function uploadImageThenGetUrl() in /Users/hiyoko/NARIKAWA_Work/MAMP/NY002_MessagingAPI_SDKver/webhook.php:38
+Stack trace:
+#0 {main}20200417-054119Error: Call to undefined function uploadImageThenGetUrl() in /Users/hiyoko/NARIKAWA_Work/MAMP/NY002_MessagingAPI_SDKver/webhook.php:38
+Stack trace:
+#0 {main}20200417-060215Error: Call to a member function getProfile() on null in /Users/hiyoko/NARIKAWA_Work/MAMP/NY002_MessagingAPI_SDKver/webhook.php:53
+Stack trace:
+#0 /Users/hiyoko/NARIKAWA_Work/MAMP/NY002_MessagingAPI_SDKver/webhook.php(85): GetUserName(NULL, '11801862495929', NULL)
+#1 {main}20200417-060317Error: Call to a member function getProfile() on null in /Users/hiyoko/NARIKAWA_Work/MAMP/NY002_MessagingAPI_SDKver/webhook.php:53
+Stack trace:
+#0 /Users/hiyoko/NARIKAWA_Work/MAMP/NY002_MessagingAPI_SDKver/webhook.php(85): GetUserName(NULL, '11801863590371', NULL)
+#1 {main}
